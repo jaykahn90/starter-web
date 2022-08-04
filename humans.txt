@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	jay kahn	jaykahn@gmail.com
+ 
 
 # THANKS
 
