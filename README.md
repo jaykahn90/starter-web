@@ -1,4 +1,4 @@
-# Starter Web Project
+### Starter Web Project
 
 This is a simple website project for showing how to use Git and GitHub together. Adding more sentence for rebasing example, more changes from my feature brand too
 
