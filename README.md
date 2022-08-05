@@ -19,4 +19,4 @@ Please fork this repository and then issue pull request for review.
 
 ### Copyright
 
-2022 Git.training.
+2022 Git.training. All right reserved
